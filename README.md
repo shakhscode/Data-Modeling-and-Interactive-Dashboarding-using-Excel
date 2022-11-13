@@ -21,7 +21,7 @@ Dashboard in Excel
 
 [4. DAX Calculations](#4-dax-calculations-1)
 
-[5. Designing an Interactive Dashboard](#5-designing-an-interactive-dashboard-1)
+[5. Designing an Interactive Dashboard](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/blob/main/README.md#5-designing-an-interactive-dashboard)
 
 ### 1. Used dataset
 ### 2. Data cleaning & Transformation
