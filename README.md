@@ -11,7 +11,7 @@
 - Excel Charts, Pivot Tables and Pivot Charts - To design an interactive dashboard.
 
 ### Experience gained:
-Data Integration, Data Modelling, Interactive Dashboarding
+Data Integration, Data Modelling, Interactive Dashboard designing.
 
 ### Final Output:
 Dashboard in Excel
