@@ -15,7 +15,10 @@ Dashboard in Excel
 
 
 
-https://user-images.githubusercontent.com/76909183/201518298-1308efad-2e37-4343-baa6-a127f33f0f4b.mp4
+
+
+
+
 
 The dashboard is entirely designed in Excel.
 
