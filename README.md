@@ -1,8 +1,12 @@
 # Data-Modeling-and-Interactive-Dashboarding-using-Excel
 ### Aim of the project:
-- Analysis of a Pizza sales dataset to find out sales insights.
-- Data modeling using Power Pivot in Excel.
-- Exploring Excel features to accomplish a data analysis project entirely in Excel.
+1. Analysis of a Pizza sales dataset to find out insights like 
+- Monthly sales trend. 
+- Whether sales was higher on weekdays or weekends ?
+- Peak time on a day when highest orders were received ? 
+- Best selling pizzas and lowest selling pizzas etc.
+2. Data modeling using Power Pivot in Excel.
+3. Exploring Excel features to accomplish a data analysis project entirely in Excel.
 
 ### Used tools:
 - Excel Power Query- For data loading.
