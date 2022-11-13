@@ -12,6 +12,14 @@ Data Integration, Data Modelling, Interactive Dashboarding
 
 ### Final Output:
 Dashboard in Excel
+
+
+
+https://user-images.githubusercontent.com/76909183/201518298-1308efad-2e37-4343-baa6-a127f33f0f4b.mp4
+
+The dashboard is entirely designed in Excel.
+
+
 ## Detailed Description
 [1. Used dataset](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/blob/main/README.md#1-used-dataset)
 
