@@ -33,6 +33,7 @@ The dashboard is entirely designed in Excel.
 
 
 ## Detailed Description
+### Contents of the repository
 [1. Used dataset](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/blob/main/README.md#1-used-dataset)
 
 [2. Data cleaning & Transformation ](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/blob/main/README.md#2-data-cleaning--transformation)
