@@ -13,13 +13,13 @@ Data Integration, Data Modelling, Interactive Dashboarding
 ### Final Output:
 Dashboard in Excel
 ## Detailed Description
-[1. Used dataset](#1-used-dataset-1)
+[1. Used dataset](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/blob/main/README.md#1-used-dataset)
 
-[2. Data cleaning & Transformation ](#2-data-cleaning-&-transformation-1)
+[2. Data cleaning & Transformation ](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/edit/main/README.md#2-data-cleaning--transformation)
 
-[3. Data Modeling](#3-data-modeling-1)
+[3. Data Modeling](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/edit/main/README.md#3-data-modelling)
 
-[4. DAX Calculations](#4-dax-calculations-1)
+[4. DAX Calculations](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/edit/main/README.md#4-dax-calculations)
 
 [5. Designing an Interactive Dashboard](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/blob/main/README.md#5-designing-an-interactive-dashboard)
 
