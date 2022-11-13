@@ -29,6 +29,7 @@ https://user-images.githubusercontent.com/76909183/201522063-2541e8e9-8664-465c-
 
 
 The dashboard is entirely designed in Excel.
+![](FullExcelPic.png)
 
 
 ## Detailed Description
