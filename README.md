@@ -41,7 +41,7 @@ The dashboard is entirely designed in Excel.
 
 ## Detailed Description
 ### Contents of the repository
-[1. Used dataset](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/blob/main/README.md#1-used-dataset)
+[1. Data description](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/blob/main/README.md#1-dataset-description)
 
 [2. Data Modeling](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/blob/main/README.md#2-data-modelling)
 
@@ -49,7 +49,12 @@ The dashboard is entirely designed in Excel.
 
 [4. Designing an Interactive Dashboard](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/blob/main/README.md#4-designing-an-interactive-dashboard)
 
-### 1. Used dataset
+### 1. Dataset description 
+The dataset is collected from [Maven Analytics](https://www.mavenanalytics.io/data-playground). It is a sales data of a pizza store. It contains-
+- 4 tables.
+- 12 dimensions.
+- 48620 instances.
+
 ### 2. Data Modelling
 ### 3. DAX Calculations
 Total Sales = Order Quantity * Price per pizza
