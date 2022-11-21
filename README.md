@@ -50,7 +50,7 @@ The dashboard is entirely designed in Excel.
 [4. Designing an Interactive Dashboard](https://github.com/shakhscode/Data-Modeling-and-Interactive-Dashboarding-using-Excel/blob/main/README.md#4-designing-an-interactive-dashboard)
 
 ### 1. Dataset description 
-The dataset is collected from [Maven Analytics](https://www.mavenanalytics.io/data-playground). It is a sales data of a pizza store. It contains-
+The dataset is collected from [Maven Analytics](https://www.mavenanalytics.io/data-playground). It contains sales records of a pizza store for the year 2015. It has
 - 4 tables.
 - 12 dimensions.
 - 48620 instances.
