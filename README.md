@@ -56,6 +56,9 @@ The dataset is collected from [Maven Analytics](https://www.mavenanalytics.io/da
 - 48620 instances.
 
 ### 2. Data Modelling
+Order_details dataset is the star schema and pizza_types table is the snowflake.
+![](DataModelAfterDAX.png)
+
 ### 3. DAX Calculations
 Total Sales = Order Quantity * Price per pizza
 =order_details[quantity]*RELATED(pizzas[price])
