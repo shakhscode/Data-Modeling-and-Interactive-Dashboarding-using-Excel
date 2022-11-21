@@ -57,7 +57,9 @@ The dataset is collected from [Maven Analytics](https://www.mavenanalytics.io/da
 
 ### 2. Data Modelling
 Data was integrated using Power Pivot add-on in Excel.
-Order_details dataset is the star schema and pizza_types table is the snowflake.
+'Order_details' table is the star schema and 'pizza_types' table is a snowflake.
+
+
 ![](DataModelAfterDAX.png)
 
 ### 3. DAX Calculations
